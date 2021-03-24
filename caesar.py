@@ -10,7 +10,7 @@ class Caesar:
     """
     def __init__(self):
         """
-        Here we set up the letter matrix. Odd string length = upper, even = lower
+        Here we set up alphabet letter list to use in key values later.
         """
 
         self.abc_list = list('abcdefghijklmnopqrstuvwxyz')
