@@ -18,8 +18,8 @@ it will then launch an "interactive" cipher which you specify in the format of
 on a blank new line.
 
 
-"Commands"
-----------
+Commands
+--------
 break   - same as exit, breaks the program (safely)
 clear   - clears screen and resumes waiting for input
 exit    - same as break, exits the program (safely)
