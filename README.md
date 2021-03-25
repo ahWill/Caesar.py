@@ -9,11 +9,21 @@ In short, I like puzzles, I'm not the best, but it's fun to challenge myself and
 python caesar.py
 ```
 
-it will then launch an "interactive" cipher which you specify in the format of
+it will then launch an "interactive" cipher which you specify in the format of 
 
 ```
 [left/right] [1-26] [string_to_cipher]
 ```
+
+on a blank new line.
+
+
+"Commands"
+----------
+break   - same as exit, breaks the program (safely)
+clear   - clears screen and resumes waiting for input
+exit    - same as break, exits the program (safely)
+help    - a help message similar to this.
 
 "Encrypt"
 ---------
