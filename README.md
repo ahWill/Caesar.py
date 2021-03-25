@@ -17,7 +17,9 @@ it will then launch an "interactive" cipher which you specify in the format of
 
 on a blank new line.
 
+Returns a ciphered string, which funny enough also unciphers a ciphered string. Anyways. 
 
+***The output shifts the spaces to be the mirror of the input see Example 2***
 
 
 Commands
@@ -38,8 +40,8 @@ Example 1:    right 15 this is my test
 Return:       iwxh xh bn ithi
 
 
-Example 2:    left 15 this is my test
-Return:       estd td xj epde
+Example 2:    left 15 another fun test oh boy
+Return:       lyz es pcqf yep dezsmzj
 ```
 
 
@@ -51,6 +53,6 @@ Return:       estd td xj epde
 Example 1:    left 15 iwxh xh bn ithi
 Return:       this is my test
 
-Example 2:    right 15 estd td xj epde
-Return:       this is my test
+Example 2:    right 15 lyz es pcqf yep dezsmzj
+Return:       another fun test oh boy
 ```
