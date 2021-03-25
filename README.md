@@ -28,15 +28,21 @@ help    - a help message similar to this.
 "Encrypt"
 ---------
 Example 1:  right 15 this is my test
+
 Return:   iwxh xh bn ithi
 
+
 Example 2:  left 15 this is my test
+
 Return:   estd td xj epde
 
 "Decrypt"
 ---------
 Example 1:  left 15 iwxh xh bn ithi
+
 Return:   this is my test
 
+
 Example 2:  right 15 estd td xj epde
+
 Return:   this is my test
